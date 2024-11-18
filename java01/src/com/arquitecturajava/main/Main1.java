@@ -3,7 +3,7 @@ package com.arquitecturajava.main;
 public class Main1 {
 
 	public static void main(String[] args) {
-		System.out.println("hola");
+		System.out.println("hola jsp 2");
 	}
 
 }
